@@ -1,5 +1,5 @@
 # news-classification
-The machine learning model to differentiate amongst the category of news, by using headline and short description of news.
+The machine learning model to differentiate amongst the category of news, by analysing the headline and short description of news.
 For downloading the dataset: https://www.dropbox.com/s/jfjjw66jo3ukuil/News_Category_Dataset.json.zip?dl=0
 The dataset contains 125k news headlines and there are 31 different news categories.
 
